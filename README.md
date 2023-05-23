@@ -10,5 +10,4 @@ You can clone the repository and execute the following commands from inside the 
 javac Matrix.java MatrixInterface.java
 
 java Matrix MatrixInterface
-
 ```
